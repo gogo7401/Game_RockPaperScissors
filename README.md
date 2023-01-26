@@ -1,6 +1,7 @@
-Rock - Paper - Scissors is a simple two player game, 
+# Rock - Paper - Scissors 
+is a simple two player game, where you and your opponent (the computer) simultaneously choose one of the following three options: "rock", "paper" or "scissors". 
+
 ![image](https://user-images.githubusercontent.com/120330216/214285914-d0621778-08bb-4825-b4f0-76f97a504fa8.png)
-where you and your opponent (the computer) simultaneously choose one of the following three options: "rock", "paper" or "scissors". 
 
 The rules are as follows:
 
